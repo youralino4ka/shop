@@ -1,0 +1,19 @@
+body{
+  background-color: #06040F;
+}
+header{
+  background-color: #06040F;
+  background: #06040F;
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 20px;
+}
+
+a{
+  font-size: 20px;
+  padding: 20px;
+  color: aquamarine;
+  text-decoration: none;
+}
